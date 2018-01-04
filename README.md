@@ -14,4 +14,4 @@ Discover an electronic cash system run by you
 ***
 
 ### Build instructions: 
-https://github.com/clemahieu/raiblocks/wiki/Build-Instructions
+https://github.com/micro-pay/micro/wiki/Build-Instructions
