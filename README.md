@@ -1,25 +1,16 @@
 <img src="logo.png" width="200"/>
 
-# What is RaiBlocks?
-RaiBlocks is designed to be a feeless, instant, high throughput cryptocurrency.
-
-We've applied the philosophy of "Do one thing and do it well" giving you performance and scalability unmatched by any other platform.
-
+# Digital money you can send instantly, discover scalable transactions with no fees
+A micro is a trustless, secure cryptocurrency that utilizes the MicroNET to assign a private blockchain to each individual wallet. This enables the possibility of instantaneous transactions, at any time.
 ___
 
-### Key Features:
-* RaiBlocks utilizes a novel block-lattice architecture, unlike conventional blockchains used in many other cryptocurrencies.
-* The network requires minimal resources, no high-power mining hardware, and can process high transaction throughput.
-* Offers feeless, instantaneous transactions, as well as unlimited scalability, making RaiBlocks ideal for peer-to-peer transactions.
-* As of December 2017, the RaiBlocks network has processed over four million transactions with an unpruned ledger size of only 1.7GB.
+### Trustless, secure and fee-less
+Discover an electronic cash system run by you
 
 ***
 
-### For more information:
-- [Homepage](https://raiblocks.net)
-- [Whitepaper](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf)
-- [Roadmap](https://raiblocks.net/media/raiblocks-roadmap-v2-en.png)
-
+### For more information, visit our homepage:
+- [Homepage](https://micropay.cloud)
 ***
 
 ### Build instructions: 
