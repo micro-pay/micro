@@ -1,7 +1,7 @@
 <img src="micro.png" width="200"/>
 
 # Digital money you can send instantly. Discover scalable transactions with no fees
-A micro is a trustless, secure cryptocurrency that utilizes the MicroNET to assign a private blockchain to each individual wallet. This enables the possibility of instantaneous transactions, at any time.
+A micro is a trustless and secure cryptocurrency that utilizes the MicroNET to assign a private blockchain to each individual wallet. This enables the possibility of instantaneous transactions, at any time.
 ___
 
 ### Trustless, secure and fee-less
